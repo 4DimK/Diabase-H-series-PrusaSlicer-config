@@ -2,6 +2,8 @@
 
 PrusaSlicer configuration for Multi-Material Diabase H-series printer.
 
+### ---- Work in Progress ----
+
 This is backup of the PrusaSlicer configuration folder, currently based on version 6.0 Alpha, that includes the following definitions:
 
 - Printer: Diabase-H-series
