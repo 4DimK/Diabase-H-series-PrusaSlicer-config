@@ -10,18 +10,18 @@ This is backup of the PrusaSlicer configuration folder, currently based on versi
 - Materials (*printer specific*):
     - PLA
     - PETG
-    - TPU
-    - CoexFlex x60
+    - TPU (tested)
+    - CoexFlex x60 (tested)
     - DSM Novamid CF10
     - PI-ETPU
-    - ProtoPasta conductive PLA
-    - Filamentum Crystal Clear PLA
+    - ProtoPasta conductive PLA (tested)
+    - Filamentum Crystal Clear PLA (tested)
     - BVOH
     - Silver-ink
 - Profiles (*printer specific*):
-    - 0.10mm QUALITY 
+    - 0.10mm QUALITY (tested)
     - 0.10mm SLOW-FLEX
-    - 0.20mm QUALITY
+    - 0.20mm QUALITY 
     - 0.20mm SLOW-FLEX
 
 <!--
